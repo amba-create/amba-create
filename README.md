@@ -15,7 +15,7 @@ I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, CB1, CB2) and have 
 
 ## Featured Projects
 
-
+- **Time Series Analysis** - Comparing maximum and minimum temperature trends using statistical forecasting methods and trend decomposition
 - **Stock Price Modelling** — Financial engineering application using Geometric Brownian Motion for equity price analysis
 - **Retail Transaction Analysis** — Data analytics project exploring purchasing patterns and customer segmentation
 
@@ -24,7 +24,7 @@ I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, CB1, CB2) and have 
 
 ## Get In Touch
 
-- www.linkedin.com/in/amba-sharma-1805712a8
+- LinkedIn: www.linkedin.com/in/amba-sharma-1805712a8
 - - Email: amba.sharma.uk@gmail.com 
 <!--
 **amba-create/amba-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
