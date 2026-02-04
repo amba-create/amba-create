@@ -13,15 +13,14 @@ Within my degree, I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, C
 - **Tools:** tidyverse, ggplot2, Excel
 - **Areas:** Risk modelling, financial engineering, climate risk analysis
 
-## Featured Projects using R
+## Projects using R
 - **Time Series Analysis** - Comparing maximum and minimum temperature trends using statistical forecasting methods and trend decomposition
 - **Stock Price Modelling** — Financial engineering application using Geometric Brownian Motion for equity price analysis
 - **Retail Transaction Analysis** — Data analytics project exploring purchasing patterns and customer segmentation
 
 ## Projects using Python
 - **Portfolio Optimisation** – Constructing optimal investment portfolios using Modern Portfolio Theory and stress-testing with Monte Carlo simulation to quantify risk
-
-  
+-  **Credit Risk Scoring** - Building a machine learning classification model to predict loan defaults using logistic regression, random forest, and gradient boosting techniques  
 ## Currently Working On
 **Flood Protection Gap Analysis** — Actuarial research comparing climate risk exposure in Bangladesh and Japan using Monte Carlo simulation (10,000 iterations) and tail risk analysis
 
