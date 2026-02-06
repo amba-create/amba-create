@@ -9,16 +9,17 @@ Within my degree, I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, C
 ## Technical Skills
 
 - **Languages:** R, Python
-- **Statistical Methods:** Monte Carlo simulation, GLMs, time series analysis, stochastic processes
-- **Tools:** tidyverse, ggplot2, Excel
+- **Statistical Methods:** Monte Carlo simulation, GLMs, time series analysis, stochastic processes, Bayesian inference
 - **Areas:** Risk modelling, financial engineering, climate risk analysis
 
-## Projects using R
+## Projects
+
+### R
 - **Time Series Analysis** - Comparing maximum and minimum temperature trends using statistical forecasting methods and trend decomposition
 - **Stock Price Modelling** — Financial engineering application using Geometric Brownian Motion for equity price analysis
 - **Bayesian Regression Analysis** — Bayesian inference for investment decisions and regression modelling for salary prediction using R
   
-## Projects using Python
+### Python
 - **Portfolio Optimisation** – Constructing optimal investment portfolios using Modern Portfolio Theory and stress-testing with Monte Carlo simulation to quantify risk
 - **Credit Risk Scoring** - Building a machine learning classification model to predict loan defaults using logistic regression, random forest, and gradient boosting techniques
   
