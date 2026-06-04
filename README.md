@@ -17,8 +17,9 @@ Within my degree, I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, C
 ### R
 - **Time Series Analysis** - Comparing maximum and minimum temperature trends using statistical forecasting methods and trend decomposition
 - **Stock Price Modelling** — Financial engineering application using Geometric Brownian Motion for equity price analysis
-- **Bayesian Regression Analysis** — Bayesian inference for investment decisions and regression modelling for salary prediction using R
-  
+- **Bayesian Regression Analysis** — Bayesian inference for investment decisions and regression modelling for salary prediction
+- **Markov Inheritance Model** -  statistical model using gompertz distribution and stock prices to predict how much money a person will inherit when a single stock investment is sold on the day the owner dies
+
 ### Python
 - **Portfolio Optimisation** – Constructing optimal investment portfolios using Modern Portfolio Theory and stress-testing with Monte Carlo simulation to quantify risk
 - **Credit Risk Scoring** - Building a machine learning classification model to predict loan defaults using logistic regression, random forest, and gradient boosting techniques
