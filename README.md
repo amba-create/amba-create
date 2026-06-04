@@ -1,6 +1,6 @@
-# Hello, I'm Amba 
+# Hello, I'm Amba!
 
-I'm a final-year Mathematics and Actuarial Science student at the University of Leicester with a strong interest in data analytics, statistical modelling, and quantitative finance.
+I am a recent graduate of Mathematics and Actuarial Science student from the University of Leicester with a strong interest in data analytics, statistical modelling, and quantitative finance.
 
 ## About Me
 
@@ -16,16 +16,16 @@ Within my degree, I've completed six IFoA actuarial exams (CM1, CM2, CS1, CS2, C
 
 ### R
 - **Time Series Analysis** - Comparing maximum and minimum temperature trends using statistical forecasting methods and trend decomposition
-- **Stock Price Modelling** — Financial engineering application using Geometric Brownian Motion for equity price analysis
-- **Bayesian Regression Analysis** — Bayesian inference for investment decisions and regression modelling for salary prediction
-- **Markov Inheritance Model** -  statistical model using gompertz distribution and stock prices to predict how much money a person will inherit when a single stock investment is sold on the day the owner dies
+- **Stock Price Modelling** - Financial engineering application using Geometric Brownian Motion for equity price analysis
+- **Bayesian Regression Analysis** - Bayesian inference for investment decisions and regression modelling for salary prediction
+- **Markov Inheritance Model** -  Statistical model using gompertz distribution and stock prices to predict how much money a person will inherit when a single stock investment is sold on the day the owner dies
 
 ### Python
-- **Portfolio Optimisation** – Constructing optimal investment portfolios using Modern Portfolio Theory and stress-testing with Monte Carlo simulation to quantify risk
+- **Portfolio Optimisation** - Constructing optimal investment portfolios using Modern Portfolio Theory and stress-testing with Monte Carlo simulation to quantify risk
 - **Credit Risk Scoring** - Building a machine learning classification model to predict loan defaults using logistic regression, random forest, and gradient boosting techniques
   
 ## Currently Working On
-**Flood Protection Gap Analysis** — Actuarial research comparing climate risk exposure in Bangladesh and Japan using Monte Carlo simulation (10,000 iterations) and tail risk analysis
+**Flood Protection Gap Analysis** - Actuarial research comparing climate risk exposure in Bangladesh and Japan using Monte Carlo simulation (10,000 iterations) and tail risk analysis
 
 ## Get In Touch
 
