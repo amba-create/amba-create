@@ -34,7 +34,6 @@ I'm currently looking for graduate roles in quantitative analysis, risk modellin
 - **[Insurance Claims Reserving: Chain Ladder Analysis](https://github.com/amba-create/claims-reserving-chain-ladder)** — Chain Ladder reserving on a real insurer's published claims triangle, benchmarked against their actual published reserves
 - **[Climate Variables and Insurance Loss Ratios](https://github.com/amba-create/climate-insurance-loss-glm)** — Group project: Gamma GLM testing whether cyclone frequency, flood frequency, rainfall, and sea level explain insurance loss ratios over time
 - **[Estimating an Inheritance with a Markov + Monte Carlo Model](https://github.com/amba-create/markov-inheritance-model)** — Gompertz mortality modelling combined with a stochastic stock-price model to estimate the distribution of an inherited sum, validated by matching Monte Carlo output against closed-form results
-- **[Pan-Trap Insect Analysis](https://github.com/amba-create/pan-trap-insect-analysis)** — Group project: five years of ecological survey data cleaned and analysed for species trends and community composition
 
 ## Get In Touch
 
