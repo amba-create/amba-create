@@ -26,7 +26,7 @@ I'm currently looking for graduate roles in quantitative analysis, risk modellin
 - **[Credit Risk Scoring]** — Logistic regression, random forest, and gradient boosting classifiers to predict loan defaults, with explicit analysis of the class imbalance problem and its implications for model choice
 - **[Bayesian Inference and Regression Modelling]** — Beta-Binomial Bayesian updating for an investment decision, plus a forward-selection linear model and a Gamma GLM compared head-to-head on the same salary data
 - **[Time Series Forecasting with SARIMA]** — Box-Jenkins SARIMA models for Rome's monthly temperatures, validated out-of-sample against real 2023-2024 observations rather than stopping at an in-sample fit
-- **[Education Participation: Data Cleaning and Regional Analysis]cleaning)** — Tidyverse data cleaning on a messy UK government dataset, validated by reconstructing national totals from local-authority data and checking they match exactly
+- **[Education Participation: Data Cleaning and Regional Analysis]** — Tidyverse data cleaning on a messy UK government dataset, validated by reconstructing national totals from local-authority data and checking they match exactly
 - **[Behavioural Finance: Prospect Theory and Market Anomalies]** — Diagnosing and correcting a mis-specified Prospect Theory value function, applying it to a real lottery choice, and reviewing the evidence on Bayesian biases in financial decision-making
 
 ### Risk Modelling
